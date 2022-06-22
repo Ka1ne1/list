@@ -1,2 +1,2 @@
-# list
+# Repo for wordlists
 Wordlists
